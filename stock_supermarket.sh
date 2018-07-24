@@ -22,5 +22,5 @@ mv delivery/mint_milano_cookies.txt snax;
 mv delivery/onion.txt veggies;
 mv delivery/oreos.txt snax;
 mv delivery/potatoes.txt veggies;
-mv delivery/salmon_steak.txt meat
-mv delivery/tiramisu
+mv delivery/salmon_steak.txt meat;
+mv delivery/tiramisu_cake.txt dessert;
